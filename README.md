@@ -7,7 +7,7 @@
 ## Project Website
 [Google Pagerank T193/Math371](https://googlepagerankt193math371.imfast.io/ProjectWebsite.html)
 
-## Installation and Usage
+## Installation And Usage
 1. Installation
    - Download/clone this repository and create a proper project folder where you will extract this repo's contents. Then open terminal.
    - Create a virtual environment using the command ````python3 -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
