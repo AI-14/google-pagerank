@@ -6,3 +6,6 @@
 
 ## Project Website
 [Google Pagerank T193/Math371](https://googlepagerankt193math371.imfast.io/ProjectWebsite.html)
+
+## Installation and Usage
+- Create a virtual environment using the command ````python3 -m venv yourVenvName````
