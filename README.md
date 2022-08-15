@@ -12,6 +12,10 @@
 > *Note:* The services of imfast.io are terminated. To view the project, go to **src->ProjectWebsite.html**.
 
 ## Installation And Usage
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+  
 1. Installation
    - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
    - Create a virtual environment using the command ````py -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
@@ -20,3 +24,4 @@
 
 2. Usage
    - Open your project folder and go to the terminal and activate your virtual environment. Type ````jupyter notebook````. The notebook will open in a browser and then you can open ````pagerank.ipynb```` (src\pagerank.ipynb).
+</details>
