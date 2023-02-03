@@ -10,7 +10,7 @@ Course Project: MATH 371/193 - Introduction to Numerical Analysis
 3. [Installation and Usage](#installation-usage)
 
 ## Description <a name="description"></a>
-   Use numerical analysis techniques to solve and demonstrate the Google pagerank problem.
+Use numerical analysis techniques to solve and demonstrate the Google pagerank problem.
 
 ## Project Website <a name="project-website"></a>
 [Google Pagerank T193/Math371](https://googlepagerankt193math371.imfast.io/ProjectWebsite.html)
