@@ -4,7 +4,7 @@
   
 Course Project: MATH 371/193 - Introduction to Numerical Analysis
 
-# Table of contents
+## Table of contents
 1. [Description](#description)
 2. [Project Website](#project-website)
 3. [Installation and Usage](#installation-usage)
