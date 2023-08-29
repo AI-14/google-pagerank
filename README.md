@@ -1,6 +1,4 @@
 # Google Pagerank
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat&logo=jupyter)
   
 Course Project: MATH 371/193 - Introduction to Numerical Analysis
 
